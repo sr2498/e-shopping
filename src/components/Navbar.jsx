@@ -25,7 +25,7 @@ const Navbar = () => {
                     alt="Cart" 
                     className="cart-img"
                   />
-                  <span className="cart-count">2</span>
+                  <span className="cart-count">0</span>
                 </a>
               </div>
             </div>
