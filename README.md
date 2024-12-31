@@ -17,6 +17,3 @@
 - **Routing**: React Router DOM for smooth navigation.
 - **Data Management**: Axios for API integration and data fetching.
 - **Deployment**: Hosted on GitHub Pages for reliable and easy access.
-
-
-
