@@ -1,4 +1,4 @@
-# e-shopping Website
+# e-shopping Website  
 
 **e-shopping** is a sleek, responsive e-commerce web application built with **React** and **Vite**. The app offers a seamless shopping experience, allowing users to browse a dynamic product catalog, view detailed descriptions, and make purchases. It’s optimized for performance and accessibility, making it a reliable choice for users across devices. The project is proudly hosted on **GitHub Pages** for easy access.
 
