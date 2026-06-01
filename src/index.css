@@ -48,10 +48,12 @@
   color: #f90;
 }
 
+
 .navbar-actions {
   display: flex;
   align-items: center;
 }
+
 
 .search-bar {
   display: flex;
